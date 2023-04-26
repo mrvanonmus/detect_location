@@ -4,14 +4,14 @@ Locate anyone with just a link
 termux 
 ```
 pkg install git
-pkg install wegt
+pkg install wget
 pkg install php
 git clone https://github.com/mrvanonmus/detect_location
 ```
 kali
 ```
 apt-get install git
-apt-get install wegt
+apt-get install wget
 apt-get install php 
 git clone https://github.com/mrvanonmus/detect_location
 ```
